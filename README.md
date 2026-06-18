@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eliam Rainier
+# 👋 Olá, eu sou o RūtoKāsu
 
 💻 Estudante de tecnologia há alguns anos, com experiência em várias linguagens e foco atual em **Cibersegurança** 🔐  
 🧠 Já estudei: Java, JavaScript, HTML, CSS, Python, Kotlin, Django, SQL e C  
