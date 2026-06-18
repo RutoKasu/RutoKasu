@@ -63,8 +63,10 @@ Me tornar um profissional na área de Cibersegurança, com base sólida em siste
 
 ## 📫 Contato
 
-GitHub: https://github.com/RutoKasu
-Email: rainierlima739@gmail.com
+- GitHub: https://github.com/RutoKasu
+- Email: rainierlima739@gmail.com
+
+---
 
 <!--
 **RutoKasu/RutoKasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
