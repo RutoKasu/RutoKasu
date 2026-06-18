@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o RutoKasu
+# 👋 Olá, eu sou o Eliam Rainier
 
 💻 Estudante de tecnologia há alguns anos, com experiência em várias linguagens e foco atual em **Cibersegurança** 🔐  
 🧠 Já estudei: Java, JavaScript, HTML, CSS, Python, Kotlin, Django, SQL e C  
@@ -65,6 +65,7 @@ Me tornar um profissional na área de Cibersegurança, com base sólida em siste
 
 - GitHub: https://github.com/RutoKasu
 - Email: rainierlima739@gmail.com
+- Linkedln: Rainier Lima
 
 ---
 
