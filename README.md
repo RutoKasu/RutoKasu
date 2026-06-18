@@ -66,6 +66,7 @@ Me tornar um profissional na área de Cibersegurança, com base sólida em siste
 - GitHub: https://github.com/RutoKasu
 - Email: rainierlima739@gmail.com
 - Linkedln: Rainier Lima
+- Discord: rainier.exe
 
 ---
 
