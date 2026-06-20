@@ -1,23 +1,17 @@
 # 👋 Olá, eu sou o RūtoKāsu (Eliam Rainier)
 
-💻 Estudante de tecnologia com foco em Cibersegurança 🔐
+💻 Estudante de tecnologia com foco em **Cibersegurança** 🔐
 
 ## 🚀 Sobre mim
 
-* Interessado em segurança, sistemas e Linux
-* Desenvolvo projetos para aprender na prática
-* Experiência com Python, Java, JavaScript, HTML, CSS, SQL, Kotlin, Django e C
+* 🔐 Interessado em segurança da informação
+* 🐧 Entusiasta de Linux e sistemas
+* 🧪 Desenvolvo projetos para aprender na prática
+* 📚 Experiência com Python, Java, JavaScript, HTML, CSS, SQL, Kotlin, Django e C
 
 ## 🛠️ Tecnologias
 
-* Python
-* Java
-* JavaScript
-* HTML & CSS
-* SQL
-* Django
-* Kotlin
-* C
+🐍 Python • ☕ Java • ⚡ JavaScript • 🌐 HTML & CSS • 🗄️ SQL • 🌿 Django • 📱 Kotlin • ⚙️ C
 
 ## 📌 Projetos
 
@@ -26,13 +20,13 @@
 
 ## 🎯 Objetivo
 
-Aprofundar meus conhecimentos em Cibersegurança, programação e infraestrutura.
+Aprofundar meus conhecimentos em Cibersegurança, programação e infraestrutura, construindo uma base sólida em sistemas e segurança.
 
 ## 📫 Contato
 
-* GitHub: RutoKasu
-* LinkedIn: Eliam Rainier Lima
-* Discord: rainier.exe
+* 🐙 GitHub: RutoKasu
+* 💼 LinkedIn: Eliam Rainier Lima
+* 💬 Discord: rainier.exe
 
 
 <!--
