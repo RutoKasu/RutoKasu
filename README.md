@@ -1,45 +1,29 @@
-# 👋 Olá, eu sou o RūtoKāsu (Eliam Rainier)
+# 👋 Hello, I am RūtoKāsu (Eliam Rainier)
 
-💻 Estudante de tecnologia com foco em **Cibersegurança** 🔐
+💻 Technology Student focusing on **Cybersecurity** & **Infrastructure** 🔐
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-* 🔐 Interessado em segurança da informação
-* 🐧 Entusiasta de Linux e sistemas
-* 🧪 Desenvolvo projetos para aprender na prática
-* 📚 Experiência com Python, Java, JavaScript, HTML, CSS, SQL, Kotlin, Django e C
+* 🔐 Passionate about Information Security and Blue Team defense.
+* 🐧 Linux enthusiast, managing active CLI environments and home labs.
+* 🧪 Developing practical, hands-on projects to master systems administration.
+* 📚 Experience with Python, Java, JavaScript, HTML/CSS, SQL, Kotlin, Django, and C.
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies & Skills
 
-🐍 Python • ☕ Java • ⚡ JavaScript • 🌐 HTML & CSS • 🗄️ SQL • 🌿 Django • 📱 Kotlin • ⚙️ C
+🐍 Python • ☕ Java • ⚡ JavaScript • 🌐 HTML & CSS • 🗄️ SQL • 🌿 Django • 📱 Kotlin • ⚙️ C • 🐧 Linux CLI
 
-## 📌 Projetos
+## 📌 Featured Projects
 
-* 📦 CRUDs com Python e SQLite
-* 🧪 Projetos de estudo e experimentação
+* 🖥️ [server-infra-linux](https://github.com) - Practical home lab documentation covering SSH hardening, UFW firewall rules, and lightweight infrastructure monitoring.
+* 📦 Python & SQLite CRUD applications and backend study experiments.
 
-## 🎯 Objetivo
+## 🎯 Career Objective
 
-Aprofundar meus conhecimentos em Cibersegurança, programação e infraestrutura, construindo uma base sólida em sistemas e segurança.
+To deepen my knowledge in Cybersecurity, programming, and network infrastructure, building an unshakeable foundation in systems defense and security engineering.
 
-## 📫 Contato
+## 📫 Connect with Me
 
-* 🐙 GitHub: RutoKasu
-* 💼 LinkedIn: Eliam Rainier Lima
-* 💬 Discord: rainier.exe
-
-
-<!--
-**RutoKasu/RutoKasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐙 **GitHub:** RutoKasu
+* 💼 **LinkedIn:** Eliam Rainier Lima
+* 💬 **Discord:** rainier.exe
