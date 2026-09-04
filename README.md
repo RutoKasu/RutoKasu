@@ -1,26 +1,22 @@
 # 👋 Hello, I am RūtoKāsu (Eliam Rainier)
 
-💻 Technology Student focusing on **Cybersecurity** & **Infrastructure** 🔐
+💻 Technology Student & Tech Enthusiast 🚀
 
 ## 🚀 About Me
 
-* 🔐 Passionate about Information Security and Blue Team defense.
+* 💡 Driven by curiosity and a deep passion for the vast world of IT.
+* 📚 Lifelong learner who loves exploring new technologies and picking up new skills.
 * 🐧 Linux enthusiast, managing active CLI environments and home labs.
-* 🧪 Developing practical, hands-on projects to master systems administration.
-* 📚 Experience with Python, Java, JavaScript, HTML/CSS, SQL, Kotlin, Django, and C.
+* 🧪 Developing practical, hands-on projects to understand how things work under the hood.
+* 🛠️ Experienced in exploring fields like infrastructure, networks, data analysis, and security.
 
 ## 🛠️ Technologies & Skills
 
 🐍 Python • ☕ Java • ⚡ JavaScript • 🌐 HTML & CSS • 🗄️ SQL • 🌿 Django • 📱 Kotlin • ⚙️ C • 🐧 Linux CLI
 
-## 📌 Featured Projects
-
-* 🖥️ [server-infra-linux](https://github.com) - Practical home lab documentation covering SSH hardening, UFW firewall rules, and lightweight infrastructure monitoring.
-* 📦 Python & SQLite CRUD applications and backend study experiments.
-
 ## 🎯 Career Objective
 
-To deepen my knowledge in Cybersecurity, programming, and network infrastructure, building an unshakeable foundation in systems defense and security engineering.
+To never stop learning. My goal is to keep exploring different fields of technology, building a versatile skill set, and solving complex problems across the entire IT landscape.
 
 ## 📫 Connect with Me
 
