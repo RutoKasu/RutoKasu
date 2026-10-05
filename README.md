@@ -1,3 +1,44 @@
+# 👋 Olá, eu sou RūtoKāsu (Eliam Rainier)  
+### 🛠️ Técnico de Hardware, Explorador de SOs & Entusiasta de Redes 🚀  
+
+[English Version Below / Versão em Inglês Abaixo](#-hello-i-am-rūtokāsu-eliam-rainier)
+
+---
+
+### 🚀 Sobre Mim  
+💡 Apaixonado por **hardware, sistemas operacionais, infraestrutura de redes** e suporte técnico prático.  
+🔧 **Técnico de Hardware:** experiente em diagnósticos, manutenção, montagem de PCs, reparo de hardware e restauração de máquinas antigas.  
+💿 **Amante de SOs:** adoro explorar sistemas operacionais no geral — **Linux é minha paixão absoluta**, mas amo trabalhar com versões clássicas/legadas do Windows para restaurar computadores retrô! 💻  
+🌐 **Amante de Redes:** fascinado por configuração de redes, roteamento e switching, cabeamento, Wi-Fi e homelabs.  
+💻 **Programador Prático:** eu programo (*Python, Java, JS, C, SQL*), mas minha verdadeira paixão e foco de carreira são **Hardware, SOs & Redes** — foco zero em ser desenvolvedor!  
+🐧 **Entusiasta Linux:** gerenciamento de ambientes CLI, servidores locais e otimização de sistemas.  
+
+---
+
+### 🛠️ Habilidades Técnicas & Tecnologias  
+
+| Área | Tecnologias & Ferramentas |
+| :--- | :--- |
+| 🔧 **Hardware & Manutenção** | Montagem de PCs • Diagnóstico de Componentes • Restauração de Hardware Retrô • Gestão Térmica • Testes com Multímetro e Bancada • Recuperação de Discos |
+| 💿 **Sistemas Operacionais** | Linux CLI/Desktop (Foco Principal) • Windows Legado & Moderno • Recuperação de Sistemas • Virtualização (Proxmox/Docker) |
+| 📡 **Redes** | Cabeamento & Crimpagem • TCP/IP • Roteadores & Switches • Wireshark • VLANs • Sub-redes • Otimização de Wi-Fi |
+| 💻 **Programação & Scripts** | Python • C • Java • JavaScript • HTML/CSS • SQL • Shell Script/Bash *(Ferramentas de Suporte)* |
+
+---
+
+### 🎯 Objetivo de Carreira  
+Dominar manutenção de hardware, restauração de computadores retrô, sistemas operacionais e infraestrutura de redes. Meu objetivo é atuar como um **Técnico de Hardware e Redes** de alto nível, utilizando o Linux, estruturas de rede e ferramentas práticas para resolver problemas técnicos complexos.  
+
+---
+
+### 📫 Conecte-se Comigo  
+* 🐙 **GitHub:** [RutoKasu](https://github.com/RutoKasu)  
+* 💼 **LinkedIn:** [Eliam Rainier Lima](https://linkedin.com/in/)  
+* 💬 **Discord:** `rainier.exe`  
+
+---
+---
+
 # 👋 Hello, I am RūtoKāsu (Eliam Rainier)  
 ### 🛠️ Hardware Technician, OS Explorer & Networking Enthusiast 🚀  
 
